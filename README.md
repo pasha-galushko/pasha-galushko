@@ -1,9 +1,7 @@
-## Hi there 👋
+# Hello,
 
-- [Python Backend](https://github.com/REATH-Global-LLC/python-backend) 
-- [React Frontend](https://github.com/REATH-Global-LLC/react-frontend)
-- [Kaia API](https://github.com/REATH-Global-LLC/kaia-api)
-- [Kaia Admin](https://github.com/REATH-Global-LLC/kaia-admin)
-- [PDF Image Classifier](https://github.com/REATH-Global-LLC/pdf_image_classifier)
-- [Node Backend](https://github.com/REATH-Global-LLC/node_backend)
+I am the CTO of Reath Global LLC.
 
+Reath provides generative AI tools for CRE brokers, investors, and lenders to solve real problems that matter for their business.
+
+If you're confident that you can significantly strengthen our company, write to me at [pasha@reath.ai](mailto:pasha@reath.ai). If you want to improve your business with the best AI solutions, write to [hello@reath.ai](mailto:hello@reath.ai).
